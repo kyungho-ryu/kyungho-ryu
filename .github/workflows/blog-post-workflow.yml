@@ -14,4 +14,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/gautamkrishnar,https://www.gautamkrishnar.com/feed/"
+          feed_list: "https://www.koreascience.or.kr/article/JAKO201911338887857.page,https://ieeexplore.ieee.org/abstract/document/9057681/, https://www.mdpi.com/2079-9292/10/12/1477, https://www.mdpi.com/1424-8220/21/23/7925"

@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning **POMDP & Bayesian & Coalition game & UAV's network**
 - 👀 I’m interested in **blockchain, RL, MARL, and FL**
 
-### 📕 Latest Blog Posts
+### 📕 Latest Publications
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
