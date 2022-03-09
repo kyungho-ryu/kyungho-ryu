@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @kyungho-ryu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Kyungho Ryu</h1>
+<h3 align="center">i'm a researcher on distributed systems</h3>
 
-<!---
-kyungho-ryu/kyungho-ryu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **POMDP & Bayesian & Coalition game & UAV's network**
+- 👀 I’m interested in **blockchain, RL, MARL, and FL**
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
