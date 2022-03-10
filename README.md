@@ -2,6 +2,7 @@
 <h3 align="center">I'm a researcher on distributed systems</h3>
 
 - 🌱 I’m currently learning **POMDP & Bayesian & Coalition game & UAV's network**
+- 🔭 I'm currently writing a paper about **Bayesian Coalition Formation Game for Distributed Federated Learning in UAV Networks**.
 - 👀 I’m interested in **blockchain, RL, MARL, and FL**
 
 ### 📕 Latest Publications
